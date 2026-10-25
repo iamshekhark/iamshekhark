@@ -1,4 +1,3 @@
-[README-github-profile.md](https://github.com/user-attachments/files/33921721/README-github-profile.md)
 ## Hi there 👋
 
 <!--
